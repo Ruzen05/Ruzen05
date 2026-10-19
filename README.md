@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Ruzen05/Ruzen05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ruzen 👋
 
-Here are some ideas to get you started:
+💻 Student exploring Python, SQL, cybersecurity & networking  
+🎧 Beat producer — CRIMSON CHAOS  
+🛠️ Learning by building real projects, one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- Python
+- MySQL & database design
+- Networking fundamentals
+- Cybersecurity fundamentals
+
+## Projects
+- 🚗 Car Rental Management System — Python + MySQL
+- 🔎 Network Log Analyzer — Python
+- 🔐 Password Strength Checker — Python
+
+## Find me elsewhere
+- 📸 Instagram: [@ruzen.dodo]
+
+---
+
+*Still learning. Always building.*
